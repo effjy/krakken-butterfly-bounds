@@ -177,9 +177,11 @@ If you use this repository or the results in your own work, please cite the pape
   title = {Provable Differential and Linear Bounds for a Butterfly-Diffusion Permutation: The XRBD Layer and Krakken-2048},
   note = {Figshare preprint},
   year = {2026},
-  doi = {10.6084/m9.figshare.xxxxxxx}
+  doi = {10.6084/m9.figshare.32599689}
 }
 ```
+
+**DOI:** [10.6084/m9.figshare.32599689](https://doi.org/10.6084/m9.figshare.32599689)
 
 ## License
 
