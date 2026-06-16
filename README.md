@@ -1,7 +1,13 @@
-# Krakken‑2048 – Provable Differential & Linear Bounds (XRBD Layer)
+<div align="center">
+
+<a href="https://github.com/effjy/krakken-butterfly-bounds/"><img src="titles/krakken-2048-bounds-title.svg" height="52" alt="Krakken-2048 Bounds"></a>
+
+Provable Differential & Linear Bounds (XRBD Layer)
 
 [![Paper](https://img.shields.io/badge/Paper-PDF-red)](paper.pdf)  
 **📄 Click here to read the full paper:** [`paper.pdf`](paper.pdf)
+
+</div>
 
 This repository contains the **complete, reproducible MILP models** and proofs for the paper  
 
